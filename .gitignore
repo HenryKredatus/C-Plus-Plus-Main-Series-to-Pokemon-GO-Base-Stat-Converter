@@ -1,0 +1,63 @@
+# =====================
+# Build output
+# =====================
+/build/
+/bin/
+/out/
+/Debug/
+/Release/
+
+# =====================
+# Compiled binaries
+# =====================
+*.exe
+*.out
+*.app
+
+# =====================
+# Object / intermediate files
+# =====================
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+
+# =====================
+# Debug / profiler files
+# =====================
+*.pdb
+*.idb
+*.ilk
+
+# =====================
+# IDE / editor files
+# =====================
+.vs/
+.vscode/
+*.user
+*.suo
+*.vcxproj*
+*.filters
+*.aps
+
+# =====================
+# CMake
+# =====================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =====================
+# Output / generated data
+# =====================
+Primes.txt
+Mersenne Primes.txt
+*.log
+
+# =====================
+# OS junk
+# =====================
+Thumbs.db
+.DS_Store

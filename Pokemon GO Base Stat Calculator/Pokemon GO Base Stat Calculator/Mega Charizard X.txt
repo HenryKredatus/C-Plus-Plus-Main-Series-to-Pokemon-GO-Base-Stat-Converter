@@ -1,0 +1,12 @@
+Main Series Stats:
+HP = 78
+Attack = 130
+Defense = 111
+Special Attack = 130
+Special Defense = 85
+Speed = 100
+
+Pokemon GO Stats:
+Stamina/HP = 186
+Attack = 273
+Defense = 213
